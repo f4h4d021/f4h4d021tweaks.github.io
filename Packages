@@ -11,3 +11,21 @@ Description: This is a test package.
 Name: Test package
 Author: randomIOS <ramdomIOS@gmail.com>
 Depiction: A Test tweak
+
+Package: EdgeClip
+Name: EdgeClip
+Version: 1.4.0
+Section: Tweaks
+Architecture: iphone-arm
+Depends: mobilesubstrate
+Installed-Size:  
+Author: RandomIOS
+Maintainer: RandomIOS
+Description: Copy and save anything
+Size: 1051258
+MD5sum: 
+Filename ./debs/EdgeClip.deb
+Depiction: https://github.com/f4h4d021/f4h4d021tweaks.github.io/depictions/?p=EdgeClip
+
+
+
